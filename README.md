@@ -16,7 +16,6 @@ This repository contains a machine learning project for predicting breast cancer
 - [Usage](#usage)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ---
 
