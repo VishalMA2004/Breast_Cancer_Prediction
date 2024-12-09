@@ -100,11 +100,6 @@ The **XGBoost Classifier** achieved the best performance with an F1 score of **0
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to contribute or raise issues if you encounter any problems. Happy coding!
 
 --- 
